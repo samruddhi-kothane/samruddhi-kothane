@@ -9,14 +9,14 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranavlinge&show_icons=true&theme=tokyonight&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhi-kothane&show_icons=true&theme=tokyonight&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Pranavlinge&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samruddhi-kothane&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavlinge&theme=tokyonight&hide_border=false&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-kothane&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=samruddhi-kothane&icon=0&color=0)](https://visitcount.itsvg.in)
